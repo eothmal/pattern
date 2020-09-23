@@ -2,8 +2,8 @@
 
 OOAD Principle
 #
--Prefer composition over inheritance: More flexible, lowe coupling
--Program to interface rather than implementation: Easier to test, Change and replace implementation as needed
+- Prefer composition over inheritance: More flexible, lowe coupling
+- Program to interface rather than implementation: Easier to test, Change and replace implementation as needed
 
 #
 S - Single Responsibility Principle
@@ -16,6 +16,7 @@ D - Dependency Inversion Principle
 Design Pattern example
 
 * Creational Design Patterns
+
 - Factory Method: 
 Abstract Creator
 Concrete Creator
