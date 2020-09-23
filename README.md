@@ -3,18 +3,13 @@
 OOAD Principle
 #
 -Prefer composition over inheritance: More flexible, lowe coupling
-#
 -Program to interface rather than implementation: Easier to test, Change and replace implementation as needed
 
 #
 S - Single Responsibility Principle
-#
 O - Open/Closed Principle
-#
 L - Liskov Substitution Principle
-#
 I - Interface Segregation Principle
-#
 D - Dependency Inversion Principle
 
 #
