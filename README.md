@@ -28,7 +28,7 @@ Design Pattern example
   
 * Creational Design Patterns : Deal with how an object need to be created 
   
-- Factory Method: 
+- Factory Method:   
 Abstract Creator  
 Concrete Creator  
 Static Method Creator  
