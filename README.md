@@ -20,7 +20,7 @@ D - Dependency Inversion Principle
 Benefit of SOLID principles  
 - Principle dependencies management  
 - Solid foundation for OOAD to build complicated design patterns  
-- Result inf following codes: (Robust, Reusable, Flexible)  
+- Result in following codes: (Robust, Reusable, Flexible)  
 - Solid base for designing and defining design patterns  
    
    
