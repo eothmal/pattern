@@ -21,7 +21,7 @@ Benefit of SOLID principles
 - Principle dependencies management  
 - Solid foundation for OOAD to build complicated design patterns  
 - Result inf following codes: (Robust, Reusable, Flexible)  
-- Soldi base for designin and definin design patterns  
+- Solid base for designing and defining design patterns  
    
    
 Design Pattern example  
@@ -46,7 +46,7 @@ Bill pugh
   
 - Prototype  
   
-* Structural Design Paterns : The objective to simplify the structure of different object paticipant - 
+* Structural Design Paterns : The objective to simplify the structure of different object participant - 
                               enhancing decoupling and isolation of the entire subsystem
   
 - Adapter  
