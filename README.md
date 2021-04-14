@@ -88,7 +88,7 @@ Behavioral Design Patterns : direct how behaviors can be fine-tune, made clear a
   
 - State : Allow an object to alter its behaviour when its internal state changes. The object will appear to change its class.  
   
-- Startegy : Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from the clients that use it.  
+- Strategy : Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from the clients that use it.  
   
 - Template method : Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.  
   
