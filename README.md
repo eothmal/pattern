@@ -66,9 +66,14 @@ Behavioral Design Patterns : direct how behaviors can be fine-tune, made clear a
                              new behaviors to be implemented in the same code design whenever new behaviors needed to be added.
                              More into communication with external
    
-- Command patterns  
-- Mediator patterns  
-- Startegy patterns  
-- Template method patterns  
-- Iterator  
+- Chain of Responsibility   
+- Command    
+- Interpreter    
+- Iterator    
+- Mediator   
+- Memento   
+- Observer     
+- State       
+- Startegy   
+- Template method   
 - Visitor  
